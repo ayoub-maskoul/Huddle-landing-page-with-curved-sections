@@ -100,7 +100,6 @@ button:hover{
     margin: 20px auto;
     display: flex;
     justify-content: center;
-    transition: 0.3s 0s linear transform;
 }
 .up{
     position: sticky;
@@ -213,9 +212,6 @@ section div img{
     50%{
         transform: translateY(10px);
     }
-}
-.images:hover{
-    transform: scale(1.2,1.2);
 }
 /*end section*/
 .fin-body div{
