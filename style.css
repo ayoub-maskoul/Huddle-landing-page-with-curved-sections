@@ -100,13 +100,7 @@ button:hover{
     margin: 20px auto;
     display: flex;
     justify-content: center;
-    width:90%;
-}
-.img1 img{
     transition: 0.3s 0s linear transform;
-}
-.img1 img:hover{
-    transform: scale(1.2,1.05);
 }
 .up{
     position: sticky;
